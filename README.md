@@ -38,18 +38,6 @@ Test your knowledge with fun multiple-choice questions and get your score instan
 | ![Start](./assets/home-screen.png) | ![Quiz](./assets/ques-screen.png) | ![Result](./assets/result-screen.png) |
 
 ---
-## Folder Structure
-quiz-app/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── homescreen.png
-│   ├── startscreen.png
-│   └── resultscreen.png
-├── README.md
-└── .gitignore
 
 
 ## 💻 Run Locally
