@@ -1,6 +1,3 @@
-# 🧠 Quiz App
-
-A simple and responsive quiz application built using HTML, CSS, and JavaScript.
 
 # 🧠 Quiz App
 
@@ -37,7 +34,7 @@ Test your knowledge with fun multiple-choice questions and get your score instan
 
 | Start Screen | Quiz Screen | Result Screen |
 |--------------|-------------|---------------|
-| ![Start](./assets/homescreen.png) | ![Quiz](./assets/startscreen.png) | ![Result](./assets/resultscreen.png) |
+| ![Start](./assets/home-screen.jpg) | ![Quiz](./assets/ques-screen.png) | ![Result](./assets/result-screen.png) |
 
 ---
 
