@@ -39,6 +39,20 @@ Test your knowledge with fun multiple-choice questions and get your score instan
 
 ---
 
+## 📁 Project Structure
+quiz-app/
+│
+├── index.html              # Main HTML structure
+├── style.css               # CSS styling
+├── script.js               # JavaScript logic
+├── assets/                 # Images and screenshots
+│   ├── homescreen.png
+│   ├── startscreen.png
+│   └── resultscreen.png
+├── README.md               # Project documentation
+└── .gitignore              # Git ignore rules
+
+
 
 ## 💻 Run Locally
 
