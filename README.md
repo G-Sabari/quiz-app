@@ -1,9 +1,10 @@
 
 # 🧠 Quiz App
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Tech](https://img.shields.io/badge/HTML-CSS-JavaScript-yellow)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+
 
 An interactive and visually engaging **Quiz App** built using **HTML, CSS, and JavaScript**.  
 Test your knowledge with fun multiple-choice questions and get your score instantly!
@@ -34,7 +35,7 @@ Test your knowledge with fun multiple-choice questions and get your score instan
 
 | Start Screen | Quiz Screen | Result Screen |
 |--------------|-------------|---------------|
-| ![Start](./assets/home-screen.jpg) | ![Quiz](./assets/ques-screen.png) | ![Result](./assets/result-screen.png) |
+| ![Start](./assets/home-screen.png) | ![Quiz](./assets/ques-screen.png) | ![Result](./assets/result-screen.png) |
 
 ---
 
